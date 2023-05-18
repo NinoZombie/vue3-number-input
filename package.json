@@ -1,0 +1,28 @@
+{
+  "name": "vue3-number-input",
+  "version": "1.0.0",
+  "description": "Lightweight, customizable number-input component for Vue 3",
+  "main": "vue3-number-input.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NinoZombie/vue3-number-input.git"
+  },
+  "keywords": [
+    "number input",
+    "numeric input",
+    "input",
+    "vue",
+    "vue.js",
+    "vue3",
+    "component"
+  ],
+  "author": "Aleksei Vilchik <ninozombies@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NinoZombie/vue3-number-input/issues"
+  },
+  "homepage": "https://github.com/NinoZombie/vue3-number-input#readme"
+}
